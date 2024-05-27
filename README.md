@@ -3,9 +3,13 @@
 ## How to use
 - In VS Code (or whatever you're using) load this repo remotely into a local Dev Container.
 - Let the thing boot up
+- Prompt should look like this:
+```
+vscode ➜ /workspaces/torch_test (main) $
+```
 - Go in the terminal (or click the play button) and run:
 ```
-vscode ➜ /workspaces/torch_test (main) $ /usr/local/bin/python /workspaces/torch_test/torch_example.py
+/usr/local/bin/python /workspaces/torch_test/torch_example.py
 ```
 You should see:
 ```
