@@ -16,3 +16,5 @@ You should see:
 GPU is available
 Tensor is on: cuda:0
 ```
+- If there is an error or says GPU Unavailable, then you either a) don't have a GPU instance or b) something corrupted in your dev container host
+  
